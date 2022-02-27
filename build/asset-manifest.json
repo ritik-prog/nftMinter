@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1383a6f.chunk.css",
+    "main.js": "/static/js/main.f485f80d.chunk.js",
+    "main.js.map": "/static/js/main.f485f80d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a86d64a3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a86d64a3.js.map",
+    "static/js/2.ed1f6339.chunk.js": "/static/js/2.ed1f6339.chunk.js",
+    "static/js/2.ed1f6339.chunk.js.map": "/static/js/2.ed1f6339.chunk.js.map",
+    "static/js/3.5e9a5514.chunk.js": "/static/js/3.5e9a5514.chunk.js",
+    "static/js/3.5e9a5514.chunk.js.map": "/static/js/3.5e9a5514.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e1383a6f.chunk.css.map": "/static/css/main.e1383a6f.chunk.css.map",
+    "static/js/2.ed1f6339.chunk.js.LICENSE.txt": "/static/js/2.ed1f6339.chunk.js.LICENSE.txt",
+    "static/media/1.5e1613f0.png": "/static/media/1.5e1613f0.png",
+    "static/media/reset.css": "/static/media/PressStart2P-Regular.f2341734.woff",
+    "static/media/bg.a90b986c.jpeg": "/static/media/bg.a90b986c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a86d64a3.js",
+    "static/js/2.ed1f6339.chunk.js",
+    "static/css/main.e1383a6f.chunk.css",
+    "static/js/main.f485f80d.chunk.js"
+  ]
+}

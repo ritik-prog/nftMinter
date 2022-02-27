@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #46",
+  "description": "Remember to replace this description",
+  "image": "https://ritikmakhija.tech/nfts/46.png",
+  "dna": "48b7fdf71ccf49e2ecdadfea7ccf075cae3759ae",
+  "edition": 46,
+  "date": 1645943526606,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "High"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

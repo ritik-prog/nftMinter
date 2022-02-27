@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #28",
+  "description": "Remember to replace this description",
+  "image": "https://ritikmakhija.tech/nfts/28.png",
+  "dna": "18dda4e051dd1def32660accd50c0da93a805a2f",
+  "edition": 28,
+  "date": 1645943519228,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Cyan"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
